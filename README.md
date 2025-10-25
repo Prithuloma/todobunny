@@ -1,9 +1,9 @@
 todo bunny
 
 This is a simple and user-friendly To-Do List web application designed using HTML, CSS, and JavaScript.
-The project features a clean pink color theme and allows users to manage their daily tasks efficiently while maintaining an appealing UI.
+The project allows users to manage their daily tasks efficiently while maintaining an appealing UI.
 
-📌 Key Features
+ Key Features
 
 Add new tasks dynamically
 
@@ -15,12 +15,12 @@ Automatically saves tasks using LocalStorage
 
 Responsive and visually consistent pink-themed UI
 
-🖥️ Technologies Used
+Technologies Used
 Technology	Description
 HTML5	Structure and content of the application
 CSS3	Styling and UI enhancements
 JavaScript (ES6)	Task operations and LocalStorage management
-📂 Folder Structure
+Folder Structure
 ToDo-Pink-Theme/
 │
 ├── index.html    (Main webpage)
@@ -47,9 +47,7 @@ Provide theme customization options
 
 Enable drag-and-drop task reordering
 
-✅ Purpose
-
-This project is ideal for beginners looking to practice:
+Purpose
 
 DOM manipulation
 
